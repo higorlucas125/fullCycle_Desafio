@@ -17,7 +17,7 @@ Dica: No vídeo de introdução sobre o Docker quando falamos sobre o sistema de
 Divirta-se
 
 ## Como Utilizar o código
-Existe algumas maneira que podemos utilizar o codigo. O arquivo que vamos buildar vai ser o dockerfile.prod que esse docker que iremos levar pra produção
+Existem algumas maneiras que podemos utilizar o código. O arquivo que vamos buildar vai ser o dockerfile.prod que esse docker que iremos levar pra produção
 
 primeiro passo inicie o dockerfile
 ```
@@ -32,7 +32,7 @@ pronto ao finalizar esse processo teremos nosso ./code para apresentar na tela o
 
 ## Dockerfile.prod subindo para produção
 
-Para baixar o dockerfile.prod finalizando pode executar os seguinte comando para baixar do repositorio do docker hub 
+Para baixar o dockerfile.prod finalizando pode-se executar os seguintes comandos para baixar do repositorio do docker hub
 
 ```
 docker push higordockers/fullcycle
@@ -55,3 +55,5 @@ Full Cycle Rocks!!
 ## Tamanho da imagem em prd
 
 1.82MB
+
+Utilizando a imagem do linux scratch
